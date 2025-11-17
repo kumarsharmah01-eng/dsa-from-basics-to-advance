@@ -22,4 +22,4 @@ int main(){
     }
     largest(arr,n);// calling function largest
     return 0;
-}
+}//time complexity O(n) and space complexity O(1)
